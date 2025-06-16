@@ -450,5 +450,7 @@ How frequently data gets updated?
 A: The frequency is once in three months.
 How to report a bug or raise a query?
 A: Use GitHub issues to raise a query.
+
 #LICENSE
+
 Community Data License Agreement – Permissive – Version 2.0
